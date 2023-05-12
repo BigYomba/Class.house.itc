@@ -1,0 +1,34 @@
+body{background-image:url('images/blue.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:centre;
+}
+ h1 { color: yellow;
+	padding: 10px;
+	text-align: center;
+}
+
+ p {color: yellow;
+	
+}
+table,th,td {color:white;
+	          background-color:#4977;
+              border-collapse: collapse;
+              border:1px solid black;
+			  padding: 4px
+			  }	
+
+form ,label{color: white; 
+}
+	  
+.Dept {
+ background-color:3399FF;
+color: black;
+border: 2px solid black;
+margin: 20px;
+padding:30;
+ }		
+ #myHeader {color:yellow;
+			padding: 40px;
+			text-align: center;
+}
