@@ -15,18 +15,19 @@ table,th,td {color:white;
 	          background-color:#4977;
               border-collapse: collapse;
               border:1px solid black;
-			  padding: 4px
+			  padding: 4px;
+			  width:70%;
+			  height:50%;
 			  }	
 
 form ,label{color: white; 
 }
 	  
-.Dept {
- background-color:3399FF;
-color: black;
-border: 2px solid black;
-margin: 20px;
-padding:30;
+.Dept { background-color:3399FF;
+		color: black;
+		border: 2px solid black;
+		margin: 20px;
+		padding:30;
  }		
  #myHeader {color:yellow;
 			padding: 40px;
